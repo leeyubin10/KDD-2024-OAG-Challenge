@@ -59,6 +59,14 @@
 ```bash
 git clone https://github.com/yourusername/oag-challenge-whoswho-ind.git
 cd oag-challenge-whoswho-ind
+```
 
 ### 2. 구글드라이브 파일 다운로드
-https://drive.google.com/drive/folders/1PrVC0VaZygtZ8p46G4RQP5CyBJO_rxE-?usp=drive_link
+
+데이터 파일은 아래 링크에서 다운로드하세요:
+
+[📂 Google Drive 링크](https://drive.google.com/drive/folders/1PrVC0VaZygtZ8p46G4RQP5CyBJO_rxE-?usp=drive_link)
+
+---
+
+위 내용을 복사해서 `README.md` 파일에 붙여 넣으면 GitHub에서 올바르게 렌더링됩니다. 😊
