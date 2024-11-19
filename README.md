@@ -61,5 +61,4 @@ git clone https://github.com/yourusername/oag-challenge-whoswho-ind.git
 cd oag-challenge-whoswho-ind
 
 ### 2. 구글드라이브 파일 다운로드
-```bash
 https://drive.google.com/drive/folders/1PrVC0VaZygtZ8p46G4RQP5CyBJO_rxE-?usp=drive_link
