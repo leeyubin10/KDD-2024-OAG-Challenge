@@ -68,5 +68,3 @@ cd oag-challenge-whoswho-ind
 [📂 Google Drive 링크](https://drive.google.com/drive/folders/1PrVC0VaZygtZ8p46G4RQP5CyBJO_rxE-?usp=drive_link)
 
 ---
-
-위 내용을 복사해서 `README.md` 파일에 붙여 넣으면 GitHub에서 올바르게 렌더링됩니다. 😊
